@@ -1,11 +1,5 @@
 [
     {
-        "medarbejder_id": 1,
-        "navn": "John Doe",
-        "afdeling": "Karup",
-        "email": "john.doe@forsvaret.dk"
-    },
-    {
         "medarbejder_id": 2,
         "navn": "Oliver",
         "afdeling": "Aalborg",
