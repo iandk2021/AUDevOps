@@ -1,0 +1,26 @@
+[
+    {
+        "medarbejder_id": 1,
+        "navn": "John Doe",
+        "afdeling": "Karup",
+        "email": "john.doe@forsvaret.dk"
+    },
+    {
+        "medarbejder_id": 2,
+        "navn": "Oliver",
+        "afdeling": "Aalborg",
+        "email": "oliver@forsvaret.dk"
+    },
+    {
+        "medarbejder_id": 3,
+        "navn": "Lucas",
+        "afdeling": "Struer",
+        "email": "lucas@forsvaret.dk"
+    },
+    {
+        "medarbejder_id": 4,
+        "navn": "Sebastian",
+        "afdeling": "Aalborg",
+        "email": "seb@forsvaret.dk"
+    }
+]
